@@ -1,6 +1,6 @@
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java. util.ArrayList;
+import java. util.Scanner;
 public class Player
 {
     private String name;
@@ -29,7 +29,7 @@ public class Main
         Scanner scanner = new Scanner(System.int)
         ArreyList<Player> players = new ArreyList<>();
         
-       //We have to list 5 Players with number
+       //We have to list 5 Players with the number
         players.Add(new Player("Player0", 7));
         players.Add(new Player("Player1", 10));
         players.Add(new Player("Player2", 5));
